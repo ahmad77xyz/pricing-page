@@ -1,5 +1,5 @@
 # HTML
 
-## First challeng
+## First challenge
 
-## Pricin Page
+## Pricing Page
